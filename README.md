@@ -1,7 +1,8 @@
 #Blagoja Konsuloski 181226
 
 
-(https://github.com/user-attachments/assets/09d20be8-7b9f-417d-bd96-e9db6431e73a)
+![SI_Lab2](https://github.com/user-attachments/assets/6392cec0-b603-4182-bc57-b94498534e7e)
+
 
 
 3. Циклосоматска комплексност:
