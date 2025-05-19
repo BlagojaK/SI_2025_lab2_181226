@@ -28,12 +28,13 @@
     13-14-15-16а-16b-17-18-21-22
 
 5. Multiple Condition
-    8 тест случаи:
-    T T T
-    T T F
-    T F T
-    T F F
-    F T T
-    F T F
-    F F T
-    F F F
+   if (item.getName() == null || item.getName().length() == 0)
+       TX
+       FT
+       FF
+
+   if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 1)
+       TXX
+       FTX
+       FFT
+       FFF
